@@ -1,0 +1,7 @@
+[
+1mm  FR4
+20mm cap
+1mm  FR4 cap
+4mm  power components
+1mm  alu power
+] = 27mm
